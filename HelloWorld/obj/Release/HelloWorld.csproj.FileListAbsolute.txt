@@ -1,0 +1,5 @@
+c:\users\xu_l\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+c:\users\xu_l\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+c:\users\xu_l\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+c:\users\xu_l\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+c:\users\xu_l\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
