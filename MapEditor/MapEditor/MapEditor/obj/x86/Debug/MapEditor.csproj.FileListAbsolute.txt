@@ -1,0 +1,10 @@
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.EditorForms.MapWinForms.resources
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\xu_l\Documents\Visual Studio 2010\Projects\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Content\Sprites\GrassSprite.xnb
